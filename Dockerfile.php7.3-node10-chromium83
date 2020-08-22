@@ -1,6 +1,0 @@
-FROM thecodingmachine/php:7.3-v3-apache-node10
-
-USER root
-RUN apt-get install  -yqq \
-    chromium-browser=83.0.4103.61-0ubuntu0.18.04.1 \
-    chromium-chromedriver=83.0.4103.61-0ubuntu0.18.04.1

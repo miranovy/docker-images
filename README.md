@@ -4,10 +4,11 @@ Docker images
 
 ## Images
 
-### php:7.3-node10-chromium83
+### php:7.3-node10-chromium
 
 Contains:
 
 * php 7.3
-* chromium browser 83
-* chromium driver 83
+* node 10
+* chromium browser
+* chromium driver
