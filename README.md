@@ -4,11 +4,13 @@ Docker images
 
 ## Images
 
-### php:7.3-node10-chromium
+### php:7.4-node10
 
 Contains:
 
-* php 7.3
+* php 7.4
 * node 10
-* chromium browser
-* chromium driver
+* apache
+* make
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
