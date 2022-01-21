@@ -2,3 +2,5 @@ FROM thecodingmachine/php:7.4-v4-apache-node10
 
 USER root
 RUN apt-get update && apt-get install -y make
+
+USER docker
