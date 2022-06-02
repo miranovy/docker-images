@@ -3,4 +3,8 @@ FROM thecodingmachine/php:7.4-v4-apache-node16
 USER root
 RUN apt-get update && apt-get install -y make
 
+RUN wget -q https://phar.phpunit.de/phpcov.phar && \
+    chmod a+x phpcov.phar && \
+    mv phpcov.phar /usr/bin/phpcov
+
 USER docker
