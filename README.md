@@ -12,6 +12,7 @@ Contains:
 * node 10
 * apache
 * make
+* phpcov
 
 For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
 
@@ -23,5 +24,6 @@ Contains:
 * node 16
 * apache
 * make
+* phpcov
 
 For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
