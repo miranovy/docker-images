@@ -30,6 +30,19 @@ Contains:
 
 For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
 
+### php:8.2-node16
+
+Contains:
+
+* php 8.2
+* node 16
+* apache
+* make
+* jq
+* phpcov
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
+
 ### gradle:jdk17-jammy
 
 Contains:
