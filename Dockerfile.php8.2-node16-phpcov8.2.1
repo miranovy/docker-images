@@ -1,0 +1,9 @@
+FROM miranovy/php:8.2-node16
+
+USER root
+
+RUN wget -q https://phar.phpunit.de/phpcov-8.2.1.phar && \
+    chmod a+x phpcov-8.2.1.phar && \
+    mv phpcov-8.2.1.phar /usr/bin/phpcov
+
+USER docker
