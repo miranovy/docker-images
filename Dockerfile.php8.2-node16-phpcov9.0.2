@@ -2,8 +2,8 @@ FROM miranovy/php:8.2-node16
 
 USER root
 
-RUN wget -q https://phar.phpunit.de/phpcov.phar && \
-    chmod a+x phpcov.phar && \
-    mv phpcov.phar /usr/bin/phpcov
+RUN wget -q https://phar.phpunit.de/phpcov-9.0.2.phar && \
+    chmod a+x phpcov-9.0.2.phar && \
+    mv phpcov-9.0.2.phar /usr/bin/phpcov
 
 USER docker
