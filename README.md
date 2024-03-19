@@ -43,6 +43,18 @@ Contains:
 
 For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
 
+### php:8.2-node18
+
+Contains:
+
+* php 8.2
+* node 18
+* apache
+* make
+* jq
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
+
 ### gradle:jdk17-jammy
 
 Contains:
