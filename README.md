@@ -65,3 +65,14 @@ Contains:
 * jq
 
 For details see [gradle:jdk17-jammy](https://hub.docker.com/layers/library/gradle/jdk17-jammy/images/sha256-57ce6546b88b3bdccad9e5c6fb3dd4545da61315ba9df80eb35a36ba9c40322a?context=explore)
+
+### gradle:jdk21-jammy
+
+Contains:
+
+* gradle 8.6
+* jdk 21
+* make
+* jq
+
+For details see [gradle:jdk21-jammy](https://hub.docker.com/layers/library/gradle/jdk21-jammy/images/sha256-d7c9827aa7c7f6555921e1c31fdd1f3ab3f2eaec8a4931a896afd3eea6fb032a?context=explore)

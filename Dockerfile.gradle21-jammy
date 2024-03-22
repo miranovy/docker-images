@@ -1,0 +1,4 @@
+FROM gradle:jdk21-jammy
+
+USER root
+RUN apt-get update && apt-get install -y make jq
