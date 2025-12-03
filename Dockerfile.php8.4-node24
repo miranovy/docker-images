@@ -1,0 +1,6 @@
+FROM thecodingmachine/php:8.4-v5-apache-node24
+
+USER root
+RUN apt-get update && apt-get install -y make jq
+
+USER docker
