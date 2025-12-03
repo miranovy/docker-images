@@ -4,6 +4,65 @@ Docker images
 
 ## Images
 
+### php:8.4
+
+Contains:
+
+* php 8.4
+* apache
+* make
+* jq
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
+
+### php:8.4-node22
+
+Contains:
+
+* php 8.4
+* apache
+* node 22
+* make
+* jq
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
+
+### php:8.4-node24
+
+Contains:
+
+* php 8.4
+* apache
+* node 24
+* make
+* jq
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
+
+### php:8.4-phpcov8.2.1
+
+Contains:
+
+* php 8.4
+* apache
+* phpcov 8.2.1
+* make
+* jq
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
+
+### php:8.4-phpcov10.0.1
+
+Contains:
+
+* php 8.4
+* apache
+* phpcov 10.0.1
+* make
+* jq
+
+For details see [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php)
+
 ### php:7.4-node10
 
 Contains:
